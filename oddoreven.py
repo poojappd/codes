@@ -5,4 +5,4 @@ if(x>0):
   else:
    print("\nodd number")
 else:
-  print("\ninvalid"
+  print("\ninvalid")
