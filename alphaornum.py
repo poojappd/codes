@@ -1,6 +1,6 @@
 x=input("enter the character")
 if (x>='a' and x<='z'):
- print("alphabet")
+ print("Alphabet")
 else:
- print("number")
+ print("No")
  
